@@ -16,7 +16,7 @@ public class SuperAdmin {
 	private String password;
 	
 	public SuperAdmin() {
-		git 
+		
 	}
 	public SuperAdmin(String email, String password) {
 		super();
