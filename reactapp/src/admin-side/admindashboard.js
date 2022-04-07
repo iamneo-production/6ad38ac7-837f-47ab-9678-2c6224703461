@@ -1,4 +1,4 @@
-import React from 'react'
+ojecimport React from 'react'
 
 export default function admindashboard() {
   return (
